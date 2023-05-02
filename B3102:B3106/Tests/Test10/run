@@ -1,0 +1,2 @@
+../../bin/analog -e -g test10.dot ../../log/test2.log;
+dot -Tpng -o test10.png test10.dot
