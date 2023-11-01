@@ -1,5 +1,3 @@
 # AnalyseDeLogsApache
-POO en C++
 
-
-Lire Manuel.pdf pour plus d'infos
+Click on [this](B3102:B3106/Manuel.pdf) to read the user manual.
