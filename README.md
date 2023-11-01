@@ -1,3 +1,3 @@
-# AnalyseDeLogsApache
+## AnalyseDeLogsApache
 
-Click on [this](B3102:B3106/Manuel.pdf) to read the user manual.
+Lire Manuel.pdf pour plus d’informations.
